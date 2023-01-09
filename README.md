@@ -20,3 +20,9 @@ Recheck plot x and y. (-2p)
 3.5 
 Recheck plot x and y. (-2p)
 Wrong label for x and y.
+
+## Comemnts on HW3 Lixc  (48/50)
+1.3 
+Seasonality can be  interpreted as climatology by month. 
+2.1 
+Climatology is not removed. Maybe carefully check whether the months of `Climatology` and `Original_data` is matched. (-2p)
