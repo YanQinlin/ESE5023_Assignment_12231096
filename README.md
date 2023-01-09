@@ -26,3 +26,11 @@ Wrong label for x and y.
 Seasonality can be  interpreted as climatology by month. 
 2.1 
 Climatology is not removed. Maybe carefully check whether the months of `Climatology` and `Original_data` is matched. (-2p)
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (32/30).
+Your homework is almost perfect. 2 bonus is for your detailed remarks and beautiful figures.
+
+### Assginment 05 comments - Chenyy
+Great job! I shall give you full point with 2 bonus (42/40).
+Your report is neat and organized (+2). Keep going!
